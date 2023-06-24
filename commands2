@@ -13,4 +13,6 @@ git branch =>to see which in which branch you are ,to see main branch or not
 git reset filename => to come to working directory
 git stage filename => to stage the only file
 git stage filename filename +>to stage two files at a time
-git stage *=> add all files at a time	
+git stage *=> add all files at a time
+git =>it is meant for SCM(source code management)
+

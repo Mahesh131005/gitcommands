@@ -1,5 +1,16 @@
 git clone=is a command to clone the remote repository into local machine
-cd change the directory
+cd- change the directory
+touch-to create empty file
 ll =long list
 ls = to see short list only names
 ll -a =to see long list including hidden files
+git add= to add into repository
+git commit -m "message"
+git add * =>used to add all files in staging or index
+git add filename filename =>to add 2 files at a time
+git add filename{1...any number}=> to create file in series
+git branch =>to see which in which branch you are ,to see main branch or not
+git reset filename => to come to working directory
+git stage filename => to stage the only file
+git stage filename filename +>to stage two files at a time
+git stage *=> add all files at a time	

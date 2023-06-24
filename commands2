@@ -1,0 +1,5 @@
+git clone=is a command to clone the remote repository into local machine
+cd change the directory
+ll =long list
+ls = to see short list only names
+ll -a =to see long list including hidden files
